@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Dinis 👋
 
-<!--
-**DinisConceicao/DinisConceicao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems, AI tooling, and developer infrastructure.
 
-Here are some ideas to get you started:
+## 🧠 Currently
+- Building distributed AI systems
+- Exploring Rust + WebAssembly
+- Writing technical blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack
+Python • TypeScript • Rust • PostgreSQL • Docker • AWS
+
+## 📌 Featured Projects
+- AI document search engine
+- Real-time collaboration platform
+- CLI productivity toolkit
+
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=github_dark)
+
+## 🌎 Links
+- Portfolio
+- LinkedIn
+- Blog
